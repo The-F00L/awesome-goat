@@ -161,6 +161,4 @@ An app with really insecure crypto. To be used to see/test/exploit weak cryptogr
 
 # Not found what you looking for?
 
-Check out [Awesome Vulnerable](https://github.com/kaiiyer/awesome-vulnerable)!
-
-Check out [Awesome Vulnerable Applications](https://github.com/vavkamil/awesome-vulnerable-apps)
+Check out [Awesome Vulnerable](https://github.com/kaiiyer/awesome-vulnerable) or [Awesome Vulnerable Applications](https://github.com/vavkamil/awesome-vulnerable-apps)!
